@@ -51,7 +51,7 @@ index a7ea78b..0b740c9 100644
  	/* more colors can be added after 255 to use with DefaultXX */
 -	"#cccccc",
 +	"#c4c7d1",
-+    "#1e282d",
++   "#263238",
  };
  
  
